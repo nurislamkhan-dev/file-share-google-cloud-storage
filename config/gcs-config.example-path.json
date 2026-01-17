@@ -1,0 +1,10 @@
+{
+  "projectId": "your-gcp-project-id",
+  "bucket": "your-bucket-name",
+  "credentials": "/path/to/your/service-account-key.json",
+  "createBucketIfNotExists": false,
+  "location": "US",
+  "storageClass": "STANDARD",
+  "filePrefix": "files/",
+  "metadataPrefix": "metadata/"
+}
