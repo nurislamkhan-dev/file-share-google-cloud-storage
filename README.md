@@ -67,6 +67,8 @@ npm test
 
 ## API Endpoints
 
+> 📖 **Complete API Documentation:** See [API_ENDPOINTS.md](./API_ENDPOINTS.md) for detailed endpoint documentation with examples, error codes, and rate limiting information.
+
 ### POST /files
 
 Upload a new file.
