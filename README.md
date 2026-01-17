@@ -2,6 +2,8 @@
 
 A Node.js-based file sharing API server with support for local filesystem and Google Cloud Storage providers.
 
+> 📋 **Implementation Status:** See [IMPLEMENTATION_STATUS.md](./IMPLEMENTATION_STATUS.md) for detailed information about what was implemented, known limitations, and research results.
+
 ## Features
 
 - **RESTful API** for file upload, download, and deletion

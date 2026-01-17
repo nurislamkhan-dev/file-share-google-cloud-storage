@@ -12,7 +12,7 @@
     "api",
     "storage"
   ],
-  "author": "",
+  "author": "MD NUR ISLAM KHAN",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
